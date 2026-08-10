@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-ove2kz.salamkita.cfd/sitemap.xml
